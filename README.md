@@ -1,3 +1,6 @@
+simple project on colorname package : https://fabulous-sable-69b102.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
